@@ -1,0 +1,9 @@
+Summary for Colheita Feliz para celular (o mesmo do orkut)-240x320_ (1).jar
+Decompiled with CFR 0.152
+
+
+k
+----------------------------
+
+c()
+  Unable to fully structure code
